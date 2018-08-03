@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=WIN-JHH82IL4M5P;Initial Catalog=NopTestDatabase;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=Welcome@123",
+  "RawDataSettings": {}
+}
